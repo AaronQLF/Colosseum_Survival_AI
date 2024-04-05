@@ -42,7 +42,7 @@ When we end up in the state of the game where more than one move gives same scor
 
 ## Result 
 ### In the current stage
-I made student agent play against the random agent, 50 times; 10 times in 6x6, 10 times in 7x7, 10 times in 8x8, 10 times in 9x9, 10 times in 10x10. I found the student agent has won 32 matches out of 50. 
+I made student agent play against the random agent, 50 times; 10 times in 6x6, 10 times in 7x7, 10 times in 8x8, 10 times in 9x9, 10 times in 10x10. I found the student agent has won 48 matches out of 50. 
 
 ### Other Approach and their results 
 - I tried to play the game with more layers in mini-max tree. While increasing the with just one or two more layer doesn’t contribute significant
